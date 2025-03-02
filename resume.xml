@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    
+    h1 {
+      color: #333333;
+      margin-bottom: 10px;
+    }
+    
+    h2 {
+      color: #555555;
+      font-size: 18px;
+      margin-bottom: 5px;
+    }
+    
+    .contact-info {
+      margin-bottom: 20px;
+    }
+    
+    .contact-info p {
+      margin: 5px 0;
+    }
+    
+    .section {
+      margin-bottom: 20px;
+    }
+    
+    .section h2 {
+      border-bottom: 1px solid #CCCCCC;
+      padding-bottom: 5px;
+    }
+    
+    .section ul {
+      list-style-type: disc;
+      margin: 10px 0 0 20px;
+    }
+    
+    .section ul li {
+      margin-bottom: 5px;
+    }
+    
+    .objective {
+      font-style: italic;
+      margin-bottom: 20px;
+    }
+    
+    .additional-info {
+      margin-top: 20px;
+    }
+    
+    .references {
+      margin-top: 20px;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mukesh Sahoo</h1>
+  
+  <div class="contact-info">
+    <p>At/Po - Sampur, Block Bolagarh,</p>
+    <p>Dist - Khordha, Pin - 752066</p>
+    <p>Phone: (123) 456-7890</p>
+    <p>Email: mukeshsahoo@email.com</p>
+  </div>
+  
+  <div class="section">
+    <h2>Objective</h2>
+    <p class="objective">
+      Highly skilled software developer with a strong background in [programming languages] and [areas of expertise]. Seeking a challenging position to utilize my skills and contribute to the success of a dynamic organization.
+    </p>
+  </div>
+  
+  <div class="section">
+    <h2>Education</h2>
+    <ul>
+      <li>Bachelor of Science in Computer Science</li>
+      <li>XYZ University, City, State</li>
+      <li>Year of Graduation: 20XX</li>
+    </ul>
+  </div>
+  
+  <div class="section">
+    <h2>Work Experience</h2>
+    <ul>
+      <li>
+        Software Developer<br>
+        ABC Company, City, State<br>
+        Dates of Employment: Month Year - Present<br><br>
+        - Collaborated with a team of developers to design and implement software solutions for [specific projects or clients].<br>
+        - Developed and maintained efficient, reusable, and reliable code following best practices and coding standards.<br>
+        - Conducted thorough testing and debugging to ensure the functionality and performance of applications.<br>
+        - Participated in code reviews and provided constructive feedback to team members.
+      </li>
+    </ul>
+  </div>
+  
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>Programming Languages: [List relevant programming languages]</li>
+      <li>Web Development: [List relevant web development technologies]</li>
+      <li>Database Management: [List relevant database technologies]</li>
+      <li>Version Control: [List relevant version control systems]</li>
+      <li>Problem Solving: [Describe problem-solving skills or methodologies]</li>
+      <li>Strong Analytical Skills</li>
+      <li>Excellent Communication Skills</li>
+    </ul>
+  </div>
+  
+  <div class="additional-info">
+    <h2>Languages Known</h2>
+    <ul>
+      <li>English (Fluent)</li>
+      <li>[Other languages known]</li>
+    </ul>
+  </div>
+  
+  <div class="additional-info">
+    <h2>Additional Information</h2>
+    <p>
+      - Strong problem-solving abilities<br>
+      - Proactive and adaptable team player<br>
+      - Strong attention to detail
+    </p>
+  </div>
+  
+  <div class="references">
+    <h2>References</h2>
+    <p>Available upon request</p>
+  </div>
+</body>
+</html>
